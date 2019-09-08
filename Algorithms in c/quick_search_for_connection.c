@@ -12,5 +12,4 @@ int main()
 			if (id[i] == t) id[i] = id[q];
 		printf(" %d %d \n", p, q);
 	}
-
 }
