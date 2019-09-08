@@ -18,7 +18,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="quick_search_for_connection.c">
+    <ClCompile Include="第一章 引言\quick_search_for_connection.c">
       <Filter>第一章 引言</Filter>
     </ClCompile>
   </ItemGroup>
