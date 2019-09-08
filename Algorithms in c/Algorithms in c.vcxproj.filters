@@ -13,5 +13,13 @@
       <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
       <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
     </Filter>
+    <Filter Include="第一章 引言">
+      <UniqueIdentifier>{f7e5c1c6-cf54-4570-a297-fabb6fe37767}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="quick_search_for_connection.c">
+      <Filter>第一章 引言</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
