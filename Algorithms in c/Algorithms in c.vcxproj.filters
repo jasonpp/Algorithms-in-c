@@ -24,7 +24,7 @@
     <ClCompile Include="第一章 引言\quick_union.c">
       <Filter>源文件</Filter>
     </ClCompile>
-    <ClCompile Include="第一章 引言\quick_union_advance.cpp">
+    <ClCompile Include="第一章 引言\quick_union_advance.c">
       <Filter>源文件</Filter>
     </ClCompile>
   </ItemGroup>
